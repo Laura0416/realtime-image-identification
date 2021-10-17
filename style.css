@@ -1,0 +1,49 @@
+.heading_div{
+    background-color:white;
+    font-weight: bold;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 17px;
+    box-shadow: 5px 5px 18px black;
+    margin-top: 30px;
+    float: none;
+    color: black;
+}
+
+.heading{
+    margin-top:0px;
+    width: 100%;
+    font-size: 30px;
+    box-shadow: 5px 5px 18px gray;
+    padding-bottom: 20px;
+}
+
+.list{
+    font-size: 17px;
+}
+
+body{
+    text-align:center;
+}
+
+.thing{
+    box-shadow: 5px 5px 10px black;
+    font-size: 20px;
+}
+
+.copy-right-footer{
+    background-color: gainsboro;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+canvas{
+    border: 5px white solid;
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px black;
+    margin-top: 60px;
+}
